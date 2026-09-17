@@ -1,4 +1,4 @@
-### CREDIT; W3SCHOOLS
+### CREDIT: W3SCHOOLS
 
 class TreeNode:
     def __init__(self, data):
